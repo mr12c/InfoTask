@@ -1,0 +1,6 @@
+@InfoTask_HostAddress = http://localhost:5094
+
+GET {{InfoTask_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
